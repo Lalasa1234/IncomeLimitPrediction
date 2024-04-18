@@ -3,3 +3,6 @@ Model predicts whether a person is above or below income limit based on multiple
 
 ## Highlights
 Used autoEDA libraries like autoviz, GB models like catboost and xgboost
+
+## Streamlit App Link on Cloud
+https://incomelimitprediction-6ufu4tsztu7exkt5lkkvkj.streamlit.app/
